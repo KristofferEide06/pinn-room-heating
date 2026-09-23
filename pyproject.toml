@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "PINN for room heating simulation"
 readme = "README.md"
 authors = [
-    { name = "Elling Svee", email = "86355496+ellingsvee@users.noreply.github.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
